@@ -1,0 +1,27 @@
+{
+  "name": "@micro-splits/object-proxy",
+  "version": "0.0.3",
+  "description": "a container that provides safe access to an object of an unknown structure",
+  "main": "dist/index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "publish": "npm publish --access public"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "msplits-object-proxy"
+  },
+  "keywords": [
+    "key1",
+    "k2",
+    "k3"
+  ],
+  "author": "micro-splits",
+  "license": "ISC",
+  "files": [
+    "/dist"
+  ]
+}
